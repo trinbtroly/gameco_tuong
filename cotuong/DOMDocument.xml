@@ -282,7 +282,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance selected="true" libraryItemName="banner.png">
+                                        <DOMBitmapInstance libraryItemName="banner.png">
                                              <matrix>
                                                   <Matrix a="1.32867431640625" d="1.03407287597656" tx="-24"/>
                                              </matrix>
@@ -292,9 +292,9 @@
                                                   <Matrix a="1.5035400390625" d="1.68478393554688" tx="517" ty="398"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="1.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="1.png">
                                              <matrix>
-                                                  <Matrix a="1.17526245117188" d="1.631591796875" tx="727" ty="417"/>
+                                                  <Matrix a="1.17526245117188" d="1.631591796875" tx="576" ty="274"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="3.png">
