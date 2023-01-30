@@ -1,31 +1,31 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1696" height="746" frameRate="30" currentTimeline="1" xflVersion="2.980" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 21.0 build 35450" majorVersion="21" buildNumber="35450" viewAngle3D="116.157487649749" vanishingPoint3DX="848" vanishingPoint3DY="373" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="730D848A3EFE6749B933DDD059287153">
      <media>
-          <DOMBitmapItem name="1.png" itemID="63c248c5-000004dd" sourceExternalFilepath="./LIBRARY/1.png" sourceLastImported="1675071388" externalFileCRC32="2356830699" externalFileSize="3244" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1.png" bitmapDataHRef="M 3 1673676997.dat" frameRight="3580" frameBottom="440"/>
-          <DOMBitmapItem name="2.png" itemID="63c248a7-000004d9" sourceExternalFilepath="./LIBRARY/2.png" sourceLastImported="1675071388" externalFileCRC32="3973719132" externalFileSize="5115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="2.png" bitmapDataHRef="M 2 1673676967.dat" frameRight="9680" frameBottom="920"/>
-          <DOMBitmapItem name="3.png" itemID="63c24943-000004e1" sourceExternalFilepath="./LIBRARY/3.png" sourceLastImported="1675071388" externalFileCRC32="109587554" externalFileSize="528" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="3.png" bitmapDataHRef="M 4 1673677123.dat" frameRight="840" frameBottom="280"/>
+          <DOMBitmapItem name="1.png" itemID="63c248c5-000004dd" sourceExternalFilepath="./LIBRARY/1.png" sourceLastImported="1675072944" externalFileCRC32="2356830699" externalFileSize="3244" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1.png" bitmapDataHRef="M 3 1673676997.dat" frameRight="3580" frameBottom="440"/>
+          <DOMBitmapItem name="2.png" itemID="63c248a7-000004d9" sourceExternalFilepath="./LIBRARY/2.png" sourceLastImported="1675072944" externalFileCRC32="3973719132" externalFileSize="5115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="2.png" bitmapDataHRef="M 2 1673676967.dat" frameRight="9680" frameBottom="920"/>
+          <DOMBitmapItem name="3.png" itemID="63c24943-000004e1" sourceExternalFilepath="./LIBRARY/3.png" sourceLastImported="1675072944" externalFileCRC32="109587554" externalFileSize="528" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="3.png" bitmapDataHRef="M 4 1673677123.dat" frameRight="840" frameBottom="280"/>
           <DOMBitmapItem name="4.png" itemID="63c24a92-0000050b" sourceExternalFilepath="./LIBRARY/4.png" sourceLastImported="1673490783" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="4.png" bitmapDataHRef="M 12 1673677458.dat" frameRight="5360" frameBottom="1860"/>
           <DOMBitmapItem name="5.png" itemID="63c24aaa-00000513" sourceExternalFilepath="./LIBRARY/5.png" sourceLastImported="1673677560" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="5.png" bitmapDataHRef="M 14 1673677482.dat" frameRight="3340" frameBottom="1040"/>
-          <DOMBitmapItem name="6.png" itemID="63c24aa0-0000050f" sourceExternalFilepath="./LIBRARY/6.png" sourceLastImported="1675071388" externalFileCRC32="2650895793" externalFileSize="7482" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="6.png" bitmapDataHRef="M 13 1673677472.dat" frameRight="3320" frameBottom="1920"/>
+          <DOMBitmapItem name="6.png" itemID="63c24aa0-0000050f" sourceExternalFilepath="./LIBRARY/6.png" sourceLastImported="1675072944" externalFileCRC32="2650895793" externalFileSize="7482" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="6.png" bitmapDataHRef="M 13 1673677472.dat" frameRight="3320" frameBottom="1920"/>
           <DOMBitmapItem name="8.png" itemID="63c24a72-00000504" sourceExternalFilepath="./LIBRARY/8.png" sourceLastImported="1673491221" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="8.png" bitmapDataHRef="M 11 1673677426.dat" frameRight="7320" frameBottom="1200"/>
           <DOMBitmapItem name="bang.png" itemID="63c24a3b-000004fc" sourceExternalFilepath="./LIBRARY/bang.png" sourceLastImported="1673677584" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bang.png" bitmapDataHRef="M 9 1673677371.dat" frameRight="12440" frameBottom="13060"/>
           <DOMBitmapItem name="banner.png" itemID="63c24840-000004d5" sourceExternalFilepath="./LIBRARY/banner.png" sourceLastImported="1673489559" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="banner.png" bitmapDataHRef="M 1 1673676864.dat" frameRight="25680" frameBottom="14380"/>
           <DOMBitmapItem name="banner1.png" itemID="63c24a10-000004f5" sourceExternalFilepath="./LIBRARY/banner1.png" sourceLastImported="1673490520" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="banner1.png" bitmapDataHRef="M 8 1673677328.dat" frameRight="25600" frameBottom="14640"/>
-          <DOMBitmapItem name="bạn bè.png" itemID="63c24f09-0000055c" sourceExternalFilepath="./LIBRARY/bạn bè.png" sourceLastImported="1675071388" externalFileCRC32="1980327432" externalFileSize="17350" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bạn bè.png" bitmapDataHRef="M 19 1673678601.dat" frameRight="2100" frameBottom="1940"/>
-          <DOMBitmapItem name="chọn.png" itemID="63c25025-0000057c" sourceExternalFilepath="./LIBRARY/chọn.png" sourceLastImported="1675071388" externalFileCRC32="2351700341" externalFileSize="14244" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="chọn.png" bitmapDataHRef="M 27 1673678885.dat" frameRight="1740" frameBottom="1740"/>
-          <DOMBitmapItem name="chữ.png" itemID="63c24f41-00000574" sourceExternalFilepath="./LIBRARY/chữ.png" sourceLastImported="1675071388" externalFileCRC32="1268882062" externalFileSize="122161" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="chữ.png" bitmapDataHRef="M 25 1673678657.dat" frameRight="8000" frameBottom="4400"/>
-          <DOMBitmapItem name="cửa hàng.png" itemID="63c24f0a-00000560" sourceExternalFilepath="./LIBRARY/cửa hàng.png" sourceLastImported="1675071388" externalFileCRC32="2234436574" externalFileSize="17029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cửa hàng.png" bitmapDataHRef="M 20 1673678602.dat" frameRight="2100" frameBottom="1940"/>
-          <DOMBitmapItem name="cờ chậm.png" itemID="63c24f3d-0000056c" sourceExternalFilepath="./LIBRARY/cờ chậm.png" sourceLastImported="1675071388" externalFileCRC32="3353469438" externalFileSize="164036" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cờ chậm.png" bitmapDataHRef="M 23 1673678653.dat" frameRight="4720" frameBottom="7280"/>
-          <DOMBitmapItem name="cờ nhanh.png" itemID="63c24f3f-00000570" sourceExternalFilepath="./LIBRARY/cờ nhanh.png" sourceLastImported="1675071388" externalFileCRC32="1580327948" externalFileSize="154485" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cờ nhanh.png" bitmapDataHRef="M 24 1673678655.dat" frameRight="4720" frameBottom="7280"/>
-          <DOMBitmapItem name="dang ky.png" itemID="63c24deb-00000551" sourceExternalFilepath="./LIBRARY/dang ky.png" sourceLastImported="1675071388" externalFileCRC32="316103297" externalFileSize="5972" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dang ky.png" bitmapDataHRef="M 18 1673678315.dat" frameRight="3320" frameBottom="1020"/>
+          <DOMBitmapItem name="bạn bè.png" itemID="63c24f09-0000055c" sourceExternalFilepath="./LIBRARY/bạn bè.png" sourceLastImported="1675072944" externalFileCRC32="1980327432" externalFileSize="17350" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bạn bè.png" bitmapDataHRef="M 19 1673678601.dat" frameRight="2100" frameBottom="1940"/>
+          <DOMBitmapItem name="chọn.png" itemID="63c25025-0000057c" sourceExternalFilepath="./LIBRARY/chọn.png" sourceLastImported="1675072944" externalFileCRC32="2351700341" externalFileSize="14244" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="chọn.png" bitmapDataHRef="M 27 1673678885.dat" frameRight="1740" frameBottom="1740"/>
+          <DOMBitmapItem name="chữ.png" itemID="63c24f41-00000574" sourceExternalFilepath="./LIBRARY/chữ.png" sourceLastImported="1675072944" externalFileCRC32="1268882062" externalFileSize="122161" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="chữ.png" bitmapDataHRef="M 25 1673678657.dat" frameRight="8000" frameBottom="4400"/>
+          <DOMBitmapItem name="cửa hàng.png" itemID="63c24f0a-00000560" sourceExternalFilepath="./LIBRARY/cửa hàng.png" sourceLastImported="1675072944" externalFileCRC32="2234436574" externalFileSize="17029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cửa hàng.png" bitmapDataHRef="M 20 1673678602.dat" frameRight="2100" frameBottom="1940"/>
+          <DOMBitmapItem name="cờ chậm.png" itemID="63c24f3d-0000056c" sourceExternalFilepath="./LIBRARY/cờ chậm.png" sourceLastImported="1675072944" externalFileCRC32="3353469438" externalFileSize="164036" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cờ chậm.png" bitmapDataHRef="M 23 1673678653.dat" frameRight="4720" frameBottom="7280"/>
+          <DOMBitmapItem name="cờ nhanh.png" itemID="63c24f3f-00000570" sourceExternalFilepath="./LIBRARY/cờ nhanh.png" sourceLastImported="1675072944" externalFileCRC32="1580327948" externalFileSize="154485" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cờ nhanh.png" bitmapDataHRef="M 24 1673678655.dat" frameRight="4720" frameBottom="7280"/>
+          <DOMBitmapItem name="dang ky.png" itemID="63c24deb-00000551" sourceExternalFilepath="./LIBRARY/dang ky.png" sourceLastImported="1675072944" externalFileCRC32="316103297" externalFileSize="5972" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dang ky.png" bitmapDataHRef="M 18 1673678315.dat" frameRight="3320" frameBottom="1020"/>
           <DOMBitmapItem name="den.png" itemID="63c24abc-0000051b" sourceExternalFilepath="./LIBRARY/den.png" sourceLastImported="1673490248" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="den.png" bitmapDataHRef="M 16 1673677500.dat" frameRight="1120" frameBottom="4540"/>
-          <DOMBitmapItem name="hòm thư.png" itemID="63c24f0e-00000568" sourceExternalFilepath="./LIBRARY/hòm thư.png" sourceLastImported="1675071388" externalFileCRC32="2484447327" externalFileSize="14914" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="hòm thư.png" bitmapDataHRef="M 22 1673678606.dat" frameRight="2100" frameBottom="1940"/>
+          <DOMBitmapItem name="hòm thư.png" itemID="63c24f0e-00000568" sourceExternalFilepath="./LIBRARY/hòm thư.png" sourceLastImported="1675072944" externalFileCRC32="2484447327" externalFileSize="14914" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="hòm thư.png" bitmapDataHRef="M 22 1673678606.dat" frameRight="2100" frameBottom="1940"/>
           <DOMBitmapItem name="nguoi.png" itemID="63c249ef-000004ed" sourceExternalFilepath="./LIBRARY/nguoi.png" sourceLastImported="1673490115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="nguoi.png" bitmapDataHRef="M 6 1673677295.dat" frameRight="14080" frameBottom="13960"/>
-          <DOMBitmapItem name="thưởng.png" itemID="63c24f0c-00000564" sourceExternalFilepath="./LIBRARY/thưởng.png" sourceLastImported="1675071388" externalFileCRC32="2451602664" externalFileSize="17885" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="thưởng.png" bitmapDataHRef="M 21 1673678604.dat" frameRight="2100" frameBottom="1940"/>
-          <DOMBitmapItem name="tk.png" itemID="63c56dc5-000001aa" sourceExternalFilepath="./LIBRARY/tk.png" sourceLastImported="1675071388" externalFileCRC32="2174132894" externalFileSize="48215" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tk.png" bitmapDataHRef="M 22 1673883077.dat" frameRight="5660" frameBottom="2280"/>
+          <DOMBitmapItem name="thưởng.png" itemID="63c24f0c-00000564" sourceExternalFilepath="./LIBRARY/thưởng.png" sourceLastImported="1675072944" externalFileCRC32="2451602664" externalFileSize="17885" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="thưởng.png" bitmapDataHRef="M 21 1673678604.dat" frameRight="2100" frameBottom="1940"/>
+          <DOMBitmapItem name="tk.png" itemID="63c56dc5-000001aa" sourceExternalFilepath="./LIBRARY/tk.png" sourceLastImported="1675072944" externalFileCRC32="2174132894" externalFileSize="48215" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tk.png" bitmapDataHRef="M 22 1673883077.dat" frameRight="5660" frameBottom="2280"/>
      </media>
      <symbols/>
      <timelines>
-          <DOMTimeline name="Scene 1" layerDepthEnabled="true">
+          <DOMTimeline name="Scene 1" currentFrame="1" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="Layer_4" color="#FF4FFF">
                          <frames>
@@ -161,7 +161,7 @@
                                                   <DOMTextRun>
                                                        <characters>Tên đăng nhập </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.5" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -174,7 +174,7 @@
                                                   <DOMTextRun>
                                                        <characters>Mật khẩu</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.5" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -187,7 +187,7 @@
                                                   <DOMTextRun>
                                                        <characters>Nhập lại Mật khẩu</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.5" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -196,7 +196,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="log_in" color="#9933CC" autoNamed="false">
+                    <DOMLayer name="log_in" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -233,9 +233,9 @@
                                                   <Matrix tx="1059" ty="553"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="6.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="6.png">
                                              <matrix>
-                                                  <Matrix tx="1027" ty="450"/>
+                                                  <Matrix tx="1479" ty="361"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="den.png">
@@ -256,7 +256,7 @@
                                                   <DOMTextRun>
                                                        <characters>Tên đăng nhập </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.5" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -269,7 +269,7 @@
                                                   <DOMTextRun>
                                                        <characters>Mật khẩu </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.5" size="15" bitmapSize="300" face="UTM-Avo" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -278,7 +278,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="loanding" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="loanding" color="#00FFFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -292,7 +292,7 @@
                                                   <Matrix a="1.5035400390625" d="1.68478393554688" tx="517" ty="398"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="1.png">
+                                        <DOMBitmapInstance libraryItemName="1.png">
                                              <matrix>
                                                   <Matrix a="1.17526245117188" d="1.631591796875" tx="576" ty="274"/>
                                              </matrix>
